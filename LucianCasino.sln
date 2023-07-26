@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucianCasino", "LucianCasino\LucianCasino.csproj", "{E4066EBF-8452-400F-86E9-45BA82F1D3CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LucianCasino", "LucianCasino\LucianCasino.csproj", "{96B4EF2B-3FC8-45AF-9584-29A5B0E8E5AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E4066EBF-8452-400F-86E9-45BA82F1D3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4066EBF-8452-400F-86E9-45BA82F1D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4066EBF-8452-400F-86E9-45BA82F1D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4066EBF-8452-400F-86E9-45BA82F1D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B4EF2B-3FC8-45AF-9584-29A5B0E8E5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B4EF2B-3FC8-45AF-9584-29A5B0E8E5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B4EF2B-3FC8-45AF-9584-29A5B0E8E5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B4EF2B-3FC8-45AF-9584-29A5B0E8E5AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
