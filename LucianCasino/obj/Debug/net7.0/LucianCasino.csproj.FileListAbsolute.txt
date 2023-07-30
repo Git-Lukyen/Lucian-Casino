@@ -29,3 +29,17 @@ E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\refint\LucianCasin
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\LucianCasino.pdb
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\LucianCasino.genruntimeconfig.cache
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\ref\LucianCasino.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\FireSharp.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.Threading.Tasks.Extensions.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.Threading.Tasks.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\System.Net.Http.Extensions.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\System.Net.Http.Primitives.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\LucianCasino.csproj.CopyComplete
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\LucianCasino.MvcApplicationPartsAssemblyInfo.cs
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
