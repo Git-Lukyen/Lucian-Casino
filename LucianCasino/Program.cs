@@ -1,4 +1,4 @@
-using Microsoft.OpenApi.Models;
+using LucianCasino.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -6,11 +6,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorPages();
 
 builder.Services.AddSwaggerGen();
-
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
 var app = builder.Build();
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -25,13 +27,12 @@ app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
 app.UseRouting();
-
 app.UseAuthorization();
-
 app.MapRazorPages();
-
 app.MapControllers();
+
+FireBaseAuthService authService = new FireBaseAuthService();
+authService.SignUp("gica@gmail.com", "123456");
 
 app.Run();
