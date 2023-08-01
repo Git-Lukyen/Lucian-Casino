@@ -59,3 +59,4 @@ E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.Identity
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\firebase-config.json

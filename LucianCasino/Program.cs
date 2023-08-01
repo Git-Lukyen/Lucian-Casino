@@ -1,5 +1,16 @@
+using Firebase.Auth;
+using Firebase.Auth.Providers;
+using FirebaseAdmin;
+using FireSharp.Config;
+using LucianCasino.Authentication;
 using LucianCasino.Services;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using FirebaseAuth = FirebaseAdmin.Auth.FirebaseAuth;
 
+const string WEB_API_KEY = "AIzaSyDljO16NlyEziscGcm4WglKzjwIsda6dIQ";
+const string FIREBASE_PROJECT_ID = "online-casino-fdb";
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,10 +20,25 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-var app = builder.Build();
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddScheme<AuthenticationSchemeOptions,
+        FirebaseAuthHandler>(JwtBearerDefaults.AuthenticationScheme, options => { });
 
-app.UseAuthentication();
-app.UseAuthorization();
+builder.Services.AddSingleton(FirebaseApp.Create());
+
+builder.Services.AddSingleton(new FirebaseAuthClient(new FirebaseAuthConfig
+{
+    ApiKey = WEB_API_KEY,
+    AuthDomain = $"{FIREBASE_PROJECT_ID}.firebaseapp.com",
+    Providers = new FirebaseAuthProvider[]
+    {
+        new EmailProvider()
+    }
+}));
+
+builder.Services.AddSingleton<FirebaseAuthService>(); 
+
+var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -31,8 +57,5 @@ app.UseRouting();
 app.UseAuthorization();
 app.MapRazorPages();
 app.MapControllers();
-
-FireBaseAuthService authService = new FireBaseAuthService();
-authService.SignUp("gica@gmail.com", "123456");
 
 app.Run();
