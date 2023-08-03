@@ -1,20 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\LucianCasino.bundle.scp.css",
-      "PackagePath": "staticwebassets\\LucianCasino.bundle.scp.css"
-    },
-    {
-      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
-    },
-    {
-      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
-    },
-    {
-      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\login-page.css",
+      "PackagePath": "staticwebassets\\css\\login-page.css"
     },
     {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\LICENSE",
