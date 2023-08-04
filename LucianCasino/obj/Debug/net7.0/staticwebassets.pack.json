@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\css\\login-page.css"
     },
     {
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\images\\las-vegas-g2d6496a5b_1920.jpg",
+      "PackagePath": "staticwebassets\\images\\las-vegas-g2d6496a5b_1920.jpg"
+    },
+    {
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",
+      "PackagePath": "staticwebassets\\js\\login-page.js"
+    },
+    {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },

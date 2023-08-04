@@ -1,3 +1,28 @@
 ﻿body {
-    background: blue;
+    overflow:hidden;
+}
+
+.background img {
+    position:absolute;
+    top: -10%;
+    width: 130%;
+    height: 130%;
+}
+
+.background .overlay{
+    position:absolute;
+    width: 150%;
+    height: 150%;
+    background-color: rgba(0, 0, 0, 0.55);
+}
+
+.account-form {
+    background-color: white;
+    width: 375px;
+    height: 550px;
+    position: absolute;
+    top: 17%;
+    right: 200px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 12px #000000bf;
 }
