@@ -1,23 +1,23 @@
 ﻿body {
-    overflow:hidden;
+    overflow: hidden;
 }
 
 .background img {
-    position:absolute;
+    position: fixed;
     top: -10%;
-    width: 130%;
-    height: 130%;
+    width: 115vw;
+    height: 125vh;
 }
 
-.background .overlay{
-    position:absolute;
-    width: 150%;
-    height: 150%;
+.background .overlay {
+    position: fixed;
+    width: 150vw;
+    height: 150vh;
     background-color: rgba(0, 0, 0, 0.55);
 }
 
 .account-form {
-    background-color: white;
+    background-color: #151515;
     width: 375px;
     height: 550px;
     position: absolute;
@@ -25,4 +25,29 @@
     right: 200px;
     border-radius: 25px;
     box-shadow: 10px 10px 12px #000000bf;
+    align-content: center;
 }
+
+form {
+    padding: 60px 0px 30px 0px;
+}
+
+.form-control {
+    color: white;
+    background-color: #2e2e2e !important;
+    width: 88%;
+    height: 42px;
+    margin: 15px auto 15px auto;
+    border: none;
+}
+
+.form-control:focus {
+    color: white;
+    border-color: rgb(204 126 255);
+    box-shadow: 0 0 0 0.2rem rgb(204 126 255 / 75%);
+}
+
+.form-control::placeholder {
+    color: #9e9e9e;
+}
+
