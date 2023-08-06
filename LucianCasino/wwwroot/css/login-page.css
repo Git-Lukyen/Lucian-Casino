@@ -28,8 +28,37 @@
     align-content: center;
 }
 
+.account-form .top-text {
+    text-align:center;
+    margin-top: 20px;
+}
+
 form {
-    padding: 60px 0px 30px 0px;
+    padding: 10px 0px 30px 0px;
+    text-align: center;
+}
+
+form .menu #extra a {
+    position: absolute;
+    text-decoration: none;
+    color: #b4b2b2;
+    font-size: 15px;
+    transform: translateY(-58px) translateX(+10px);
+}
+
+form .menu {
+    margin-top: 60px;
+}
+
+form .menu .btn {
+    color:white;
+    width: 275px;
+    background-image: linear-gradient(to right, rgb(220, 36, 36), rgb(71 94 232));
+    border: none;
+}
+
+form .menu p {
+    margin: 20px 0px 25px 0px;
 }
 
 .form-control {
