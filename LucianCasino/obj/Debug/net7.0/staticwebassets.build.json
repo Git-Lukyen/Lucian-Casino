@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rBNueL3QQMl4B6yqN/YH6C5JjjIwGmNY4ojXRn5fOIM=",
+  "Hash": "703VjNO2pAlcqb0FdnDJ7MGLgyqCEj8i/lybA1zzGSY=",
   "Source": "LucianCasino",
   "BasePath": "_content/LucianCasino",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\las-vegas-g2d6496a5b_1920.jpg"
+    },
+    {
+      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\general-scripts.js",
+      "SourceId": "LucianCasino",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "BasePath": "_content/LucianCasino",
+      "RelativePath": "js/general-scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\general-scripts.js"
     },
     {
       "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",

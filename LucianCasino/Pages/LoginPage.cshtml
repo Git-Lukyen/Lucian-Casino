@@ -6,7 +6,12 @@
         <title>Login - Lucian Casino</title>
 
         <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+        <script src="~/lib/jquery-validation/dist/additional-methods.min.js"></script>
+
+        <script src="~/js/general-scripts.js"></script>
         <script src="~/js/login-page.js"></script>
+
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
         <link rel="stylesheet" href="~/css/login-page.css"/>
     </head>
@@ -20,23 +25,25 @@
                 <h3>Access Your Account</h3>
                 <p>We use fictional currency. No risk, only fun!</p>
             </div>
-            <form>
+            <form id="account-form">
                 <div class="form-group">
-                    <input type="email" class="form-control" id="inputName" aria-describedby="emailHelp" placeholder="Name" autocomplete="off">
+                    <input type="text" class="form-control" name="inputName" placeholder="Name" autocomplete="off">
                 </div>
                 <div class="form-group">
-                    <input type="email" class="form-control" id="inputEmail" aria-describedby="emailHelp" placeholder="Email" autocomplete="off">
+                    <input type="text" class="form-control" name="inputEmail" placeholder="Email" autocomplete="off">
                 </div>
                 <div class="form-group">
-                    <input type="password" class="form-control" id="inputPassword" placeholder="Password" autocomplete="off">
+                    <input type="password" class="form-control" name="inputPassword" placeholder="Password" autocomplete="off">
                 </div>
                 <div class="menu">
                     <div id="extra">
-                        <a href=""><u>Forgot your password?</u></a>
+                        <a href="">
+                            <u>Forgot your password?</u>
+                        </a>
                     </div>
-                    <button class="btn"> Login to Your Account</button>
+                    <button class="btn" type = "button" id="login-btn"> Login to Your Account</button>
                     <p> &#8213; OR &#8213;</p>
-                    <button class="btn"> Create a New Account</button>
+                    <button class="btn" type = "button" id="signup-btn"> Create a New Account</button>
                 </div>
             </form>
         </div>

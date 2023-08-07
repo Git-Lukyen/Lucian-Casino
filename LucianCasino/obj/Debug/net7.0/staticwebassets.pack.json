@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\images\\las-vegas-g2d6496a5b_1920.jpg"
     },
     {
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\general-scripts.js",
+      "PackagePath": "staticwebassets\\js\\general-scripts.js"
+    },
+    {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",
       "PackagePath": "staticwebassets\\js\\login-page.js"
     },
