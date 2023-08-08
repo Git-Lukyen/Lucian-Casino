@@ -1,24 +1,47 @@
 ﻿using Firebase.Auth;
+using FireSharp;
+using LucianCasino.DBObjects;
+using LucianCasino.DBObjects.DTO;
 
 namespace LucianCasino.Services;
 
 public class FirebaseAuthService
 {
     private readonly FirebaseAuthClient _firebaseAuth;
-    public FirebaseAuthService(FirebaseAuthClient firebaseAuth)
+    private readonly FirebaseClient _firebaseClient;
+
+    public FirebaseAuthService(FirebaseAuthClient firebaseAuth, FirebaseClient firebaseClient)
     {
         _firebaseAuth = firebaseAuth;
+        _firebaseClient = firebaseClient;
     }
-    public async Task<string?> SignUp(string email, string password)
+
+    public async Task<string?> SignUp(UserDTO userDto)
     {
-        var userCredentials = await _firebaseAuth.CreateUserWithEmailAndPasswordAsync(email, password);
-        return userCredentials is null ? null : await userCredentials.User.GetIdTokenAsync();
+        UserCredential userCredential =
+            await _firebaseAuth.CreateUserWithEmailAndPasswordAsync(userDto.Email, userDto.Password, userDto.Name);
+
+        if (userCredential != null)
+        {
+            string token = await userCredential.User.GetIdTokenAsync();
+            await _firebaseClient.PushAsync("Users", new DbUser()
+            {
+                Id = token,
+                Name = userDto.Name,
+                Email = userDto.Email
+            });
+
+            return token;
+        }
+
+        return null;
     }
-    public async Task<string?> Login(string email, string password)
+
+    public async Task<string?> SignIn(string email, string password)
     {
-        var userCredentials = await _firebaseAuth.SignInWithEmailAndPasswordAsync(email, password);
-        return userCredentials is null ? null : await userCredentials.User.GetIdTokenAsync();
+        UserCredential userCredential = await _firebaseAuth.SignInWithEmailAndPasswordAsync(email, password);
+        return await userCredential.User.GetIdTokenAsync();
     }
-    
-    public void SignOut() => _firebaseAuth.SignOut(); 
+
+    public void SignOut() => _firebaseAuth.SignOut();
 }
