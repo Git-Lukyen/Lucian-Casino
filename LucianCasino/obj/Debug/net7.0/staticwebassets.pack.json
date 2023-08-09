@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\home-page.css",
+      "PackagePath": "staticwebassets\\css\\home-page.css"
+    },
+    {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\login-page.css",
       "PackagePath": "staticwebassets\\css\\login-page.css"
     },
@@ -11,6 +15,10 @@
     {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\general-scripts.js",
       "PackagePath": "staticwebassets\\js\\general-scripts.js"
+    },
+    {
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\home-page.js",
+      "PackagePath": "staticwebassets\\js\\home-page.js"
     },
     {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",
@@ -195,6 +203,10 @@
     {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-cookies\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-cookies\\jquery.cookie.js"
     },
     {
       "Id": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",

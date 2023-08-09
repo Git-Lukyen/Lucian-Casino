@@ -37,9 +37,9 @@ public class FirebaseAuthService
         return null;
     }
 
-    public async Task<string?> SignIn(string email, string password)
+    public async Task<string?> SignIn(UserDTO userDto)
     {
-        UserCredential userCredential = await _firebaseAuth.SignInWithEmailAndPasswordAsync(email, password);
+        UserCredential userCredential = await _firebaseAuth.SignInWithEmailAndPasswordAsync(userDto.Email, userDto.Password);
         return await userCredential.User.GetIdTokenAsync();
     }
 

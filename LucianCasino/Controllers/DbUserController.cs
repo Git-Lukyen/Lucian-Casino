@@ -16,8 +16,15 @@ public class DbUserController : Controller
 
     [Route("add/single")]
     [HttpPost]
-    public async Task<string?> AddUserAsync([FromBody] UserDTO userDto)
+    public async Task<string?> SignupUserAsync([FromBody] UserDTO userDto)
     {
         return await _userService.SignUp(userDto);
+    }
+    
+    [Route("login")]
+    [HttpPost]
+    public async Task<string?> SigninUserAsync([FromBody] UserDTO userDto)
+    {
+        return await _userService.SignIn(userDto);
     }
 }

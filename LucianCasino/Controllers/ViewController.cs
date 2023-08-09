@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace LucianCasino.Controllers;
 
@@ -10,5 +11,13 @@ public class ViewController : Controller
     public IActionResult ShowLoginPage()
     {
         return View("~/Pages/LoginPage.cshtml");
+    }
+
+    [Route("home")]
+    [Authorize]
+    [HttpGet]
+    public IActionResult ShowHomePage()
+    {
+        return View("~/Pages/HomePage.cshtml");
     }
 }

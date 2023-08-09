@@ -44,8 +44,56 @@
         }
     });
 
-    $("#login-btn").click(function(){
-        console.log($("form").valid());
+    let basePath = "https://localhost:44364/lc/";
+    
+    $("#signup-btn").click(function () {
+        if (!$("#account-form").valid())
+            return;
+
+        let userDto = {
+            "Name": $("[name='inputName']").val(),
+            "Email": $("[name='inputEmail']").val(),
+            "Password": $("[name='inputPassword']").val()
+        };
+
+        $.ajax({
+            url: basePath + "users/add/single",
+            type: "POST",
+            data: JSON.stringify(userDto),
+            contentType: 'application/json',
+            success: function (data) {
+                $.removeCookie("Authorization");
+                $.cookie("Authorization", "Bearer " + data, {path: "/lc/home"});
+                window.location.replace(basePath + "home");
+            },
+        });
+
     });
+
+    $("#login-btn").click(function () {
+        if (!$("#account-form").valid())
+            return;
+
+        let userDto = {
+            "Name": $("[name='inputName']").val(),
+            "Email": $("[name='inputEmail']").val(),
+            "Password": $("[name='inputPassword']").val()
+        };
+
+        $.ajax({
+            url: basePath + "users/login",
+            type: "POST",
+            data: JSON.stringify(userDto),
+            contentType: 'application/json',
+            success: function (data) {
+                $.removeCookie("Authorization");
+                $.cookie("Authorization", "Bearer " + data, {path: "/lc/home"});
+                window.location.replace(basePath + "home");
+            },
+        });
+
+    });
+
+    
 
 });

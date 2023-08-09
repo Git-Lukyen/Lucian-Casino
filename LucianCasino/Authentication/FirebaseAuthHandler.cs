@@ -22,10 +22,15 @@ public class FirebaseAuthHandler : AuthenticationHandler<AuthenticationSchemeOpt
 
     protected override async Task<AuthenticateResult> HandleAuthenticateAsync()
     {
-        if (!Context.Request.Headers.ContainsKey("Authorization"))
+        if (!Context.Request.Headers.ContainsKey("Authorization") && !Context.Request.Cookies.ContainsKey("Authorization"))
             return AuthenticateResult.NoResult();
 
-        string bearerToken = Context.Request.Headers["Authorization"];
+        string bearerToken;
+        if (Context.Request.Headers.ContainsKey("Authorization"))
+            bearerToken = Context.Request.Headers["Authorization"];
+        else
+            bearerToken = Context.Request.Cookies["Authorization"];
+        
         if (bearerToken == null || !bearerToken.StartsWith("Bearer "))
             return AuthenticateResult.Fail("invalid scheme");
 

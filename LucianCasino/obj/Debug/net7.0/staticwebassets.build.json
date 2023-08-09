@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "703VjNO2pAlcqb0FdnDJ7MGLgyqCEj8i/lybA1zzGSY=",
+  "Hash": "FwkJjNbL2n0DhefBjBO/lzLRHuZst15zaJJ+iUCiX4U=",
   "Source": "LucianCasino",
   "BasePath": "_content/LucianCasino",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\home-page.css",
+      "SourceId": "LucianCasino",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "BasePath": "_content/LucianCasino",
+      "RelativePath": "css/home-page.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home-page.css"
+    },
     {
       "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\login-page.css",
       "SourceId": "LucianCasino",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\general-scripts.js"
+    },
+    {
+      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\home-page.js",
+      "SourceId": "LucianCasino",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "BasePath": "_content/LucianCasino",
+      "RelativePath": "js/home-page.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\home-page.js"
     },
     {
       "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",
@@ -848,6 +882,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-cookies\\jquery.cookie.js",
+      "SourceId": "LucianCasino",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "BasePath": "_content/LucianCasino",
+      "RelativePath": "lib/jquery-cookies/jquery.cookie.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-cookies\\jquery.cookie.js"
     },
     {
       "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",

@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\Desktop\Web Dev\LucianCasino\LucianCasino
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/Desktop/Web Dev/LucianCasino/LucianCasino/Pages/HomePage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Desktop/Web Dev/LucianCasino/LucianCasino/Pages/LoginPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
