@@ -1,3 +1,16 @@
 ﻿body {
-    background: blue;
+    overflow: hidden;
+}
+
+.navbar {
+    padding: 6px 10px 10px 10px;
+}
+
+#top-description img {
+    width:100%;
+}
+
+#select-game-slider{
+    background: #212529;
+    height: 500px;
 }
