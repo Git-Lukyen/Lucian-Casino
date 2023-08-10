@@ -45,7 +45,7 @@
     });
 
     let basePath = "https://localhost:44364/lc/";
-    
+
     $("#signup-btn").click(function () {
         if (!$("#account-form").valid())
             return;
@@ -66,6 +66,17 @@
                 $.cookie("Authorization", "Bearer " + data, {path: "/lc/home"});
                 window.location.replace(basePath + "home");
             },
+            error: function(data) {
+
+                $.growl({
+                    title: "Error signing up!",
+                    message: "Invalid email or username.",
+                    duration: "5000",
+                    location:"bl",
+                    style: "error"
+                });
+                
+            }
         });
 
     });
@@ -90,10 +101,21 @@
                 $.cookie("Authorization", "Bearer " + data, {path: "/lc/home"});
                 window.location.replace(basePath + "home");
             },
+            error: function(error) {
+                
+                $.growl({
+                    title: "Error signing in!",
+                    message: "Invalid username or password.",
+                    duration: "5000",
+                    location:"bl",
+                    style: "error"
+                });
+                
+            }
         });
 
     });
 
-    
+
 
 });

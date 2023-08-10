@@ -58,3 +58,5 @@ E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\System.IdentityMod
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\firebase-config.json
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\LucianCasino.RazorAssemblyInfo.cache
 E:\Desktop\Web Dev\LucianCasino\LucianCasino\obj\Debug\net7.0\LucianCasino.RazorAssemblyInfo.cs
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\AngleSharp.dll
+E:\Desktop\Web Dev\LucianCasino\LucianCasino\bin\Debug\net7.0\Toolbelt.AspNetCore.CssLiveReloader.dll

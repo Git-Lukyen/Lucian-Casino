@@ -4,13 +4,24 @@
 
 .navbar {
     padding: 6px 10px 10px 10px;
+    height: 6vh;
+
+    border-image: linear-gradient(to left, #ec2f4b, #009fff) 30;
+    border-width: 2px 0 2px 0;
+    border-style: solid;
 }
 
 #top-description img {
-    width:100%;
+    width:100vw;
+    height: 38vh;
 }
 
 #select-game-slider{
-    background: #212529;
-    height: 500px;
+    background: #100e13;
+    height: 56vh;
+
+    border-image: linear-gradient(to right, #ec2f4b, #009fff) 30;
+    border-width: 2px 0 2px 0;
+    border-style: solid;
 }
+

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WWT+R0LpfHpLsUb1afBPMyMNwFkHgsC5tIpXAnbgU2k=",
+  "Hash": "z5zfoBRm9fdskLYWPUmOSF5MVBS09mqMW62OPN4M4nw=",
   "Source": "LucianCasino",
   "BasePath": "_content/LucianCasino",
   "Mode": "Default",
@@ -899,6 +899,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\growl-notifications\\jquery.growl.css",
+      "SourceId": "LucianCasino",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "BasePath": "_content/LucianCasino",
+      "RelativePath": "lib/growl-notifications/jquery.growl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\growl-notifications\\jquery.growl.css"
+    },
+    {
+      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\growl-notifications\\jquery.growl.js",
+      "SourceId": "LucianCasino",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "BasePath": "_content/LucianCasino",
+      "RelativePath": "lib/growl-notifications/jquery.growl.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\growl-notifications\\jquery.growl.js"
     },
     {
       "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-cookies\\jquery.cookie.js",
