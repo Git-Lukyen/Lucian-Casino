@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\LucianCasino.csproj": {}
+    "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\LucianCasino.csproj": {}
   },
   "projects": {
-    "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\LucianCasino.csproj": {
+    "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\LucianCasino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\LucianCasino.csproj",
+        "projectUniqueName": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\LucianCasino.csproj",
         "projectName": "LucianCasino",
-        "projectPath": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\LucianCasino.csproj",
-        "packagesPath": "C:\\Users\\MICHA\\.nuget\\packages\\",
-        "outputPath": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\obj\\",
+        "projectPath": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\LucianCasino.csproj",
+        "packagesPath": "C:\\Users\\drace\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MICHA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\drace\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Users\\MICHA\\.dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "C:\\Users\\drace\\.dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\MICHA\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\drace\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

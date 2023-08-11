@@ -1,10 +1,16 @@
-﻿body {
+﻿:root{
+    --img-slot: 38vh;
+    --height-navbar: 50px;
+}
+
+body {
     overflow: hidden;
 }
 
 .navbar {
-    padding: 6px 10px 10px 10px;
-    height: 6vh;
+    padding: 0 10px 4px 10px;
+    background: #100e13 !important;
+    height: var(--height-navbar);
 
     border-image: linear-gradient(to left, #ec2f4b, #009fff) 30;
     border-width: 2px 0 2px 0;
@@ -13,12 +19,12 @@
 
 #top-description img {
     width:100vw;
-    height: 38vh;
+    height: var(--img-slot);
 }
 
 #select-game-slider{
     background: #100e13;
-    height: 56vh;
+    height: calc(100vh - var(--img-slot) - var(--height-navbar));
 
     border-image: linear-gradient(to right, #ec2f4b, #009fff) 30;
     border-width: 2px 0 2px 0;

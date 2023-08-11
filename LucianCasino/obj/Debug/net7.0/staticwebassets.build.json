@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z5zfoBRm9fdskLYWPUmOSF5MVBS09mqMW62OPN4M4nw=",
+  "Hash": "RnKztLM8NXiwtCt6Hq8rOCBGb+I8oz1taAFtYth/AMw=",
   "Source": "LucianCasino",
   "BasePath": "_content/LucianCasino",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LucianCasino\\wwwroot",
       "Source": "LucianCasino",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\home-page.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\css\\home-page.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "css/home-page.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home-page.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\css\\login-page.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\css\\login-page.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "css/login-page.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login-page.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\images\\las-vegas-g2d6496a5b_1920.jpg",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\images\\las-vegas-g2d6496a5b_1920.jpg",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "images/las-vegas-g2d6496a5b_1920.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\las-vegas-g2d6496a5b_1920.jpg"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\images\\slots-5012428_1920.jpg",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\images\\slots-5012428_1920.jpg",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "images/slots-5012428_1920.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\slots-5012428_1920.jpg"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\general-scripts.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\js\\general-scripts.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "js/general-scripts.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\general-scripts.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\home-page.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\js\\home-page.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "js/home-page.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\js\\home-page.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\js\\login-page.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "js/login-page.js",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login-page.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\growl-notifications\\jquery.growl.css",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\growl-notifications\\jquery.growl.css",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/growl-notifications/jquery.growl.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\growl-notifications\\jquery.growl.css"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\growl-notifications\\jquery.growl.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\growl-notifications\\jquery.growl.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/growl-notifications/jquery.growl.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\growl-notifications\\jquery.growl.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-cookies\\jquery.cookie.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-cookies\\jquery.cookie.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-cookies/jquery.cookie.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-cookies\\jquery.cookie.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "LucianCasino",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Desktop\\Web Dev\\LucianCasino\\LucianCasino\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\drace\\Desktop\\Development\\LucianCasino\\LucianCasino\\wwwroot\\",
       "BasePath": "_content/LucianCasino",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
