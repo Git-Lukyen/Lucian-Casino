@@ -1,4 +1,8 @@
-﻿body {
+﻿:root {
+    --login-form-height: 550px;
+}
+
+body {
     overflow: hidden;
 }
 
@@ -17,16 +21,16 @@
 }
 
 form {
-    padding: 5px 0px 30px 0px;
+    padding: 5px 0 30px 0;
     text-align: center;
 }
 
 .account-form {
     background-color: #151515;
     width: 375px;
-    height: 550px;
+    height: var(--login-form-height);
     position: absolute;
-    top: 17%;
+    top: calc(50vh - var(--login-form-height)/2);
     right: 200px;
     border-radius: 25px;
     box-shadow: 10px 10px 12px #000000bf;
